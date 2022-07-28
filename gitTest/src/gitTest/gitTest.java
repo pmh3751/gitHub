@@ -11,6 +11,7 @@ public class gitTest {
 				System.out.println(i + " x " + j + " = " + (i*j));
 			}
 			System.out.println();
+			System.out.println();
 		}
 		
 		
